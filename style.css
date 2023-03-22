@@ -1,0 +1,283 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: monospace;
+    background-color:#E4F9F5;
+}
+
+
+h1{
+    font-size:90px;
+    margin:50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height:1;
+}
+
+
+
+
+h2
+{
+    color: #66BFBF;
+    font-size: 30px;
+    font-weight:normal;
+}
+
+
+
+.intro
+{
+    line-height: 0;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;;
+}
+
+
+
+h3
+{
+    color: #11999E;
+}
+
+
+
+
+.top-container{
+    background-color:#E4F9F5;
+    position: relative;
+    padding-top: 90px;
+}
+
+
+
+p{
+    margin-top:0
+}
+
+
+
+.lower-cloud{
+    position: absolute;
+    left:300px;
+    bottom:500px;
+}
+
+
+
+.upper-cloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+
+
+a{
+    color: #11999E;
+}
+
+
+
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+
+.skill-logo
+{
+    width: 30%;
+    float: right;
+    margin-right: 30px;
+}
+
+
+
+
+.extra-skill
+{
+    width: 30%;
+    float: right;
+    margin-right: 30px;
+}
+
+
+
+.Academic-heading
+{
+    margin-top: 0px ;
+    font-size: 30px;
+    
+}
+
+
+
+.Academic-skills
+{
+    font-size: 25px;
+    
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    
+}
+
+
+
+.about-me
+{
+   font-size: 40px;
+    text-align:centre;
+    font-family:'Edu NSW ACT Foundation', cursive;
+}
+
+
+
+.extra-heading
+{
+    font-size: 30px;
+}
+
+
+
+
+.Extra-Curriculam
+{
+    font-size: 25px;
+    font-family:'Edu NSW ACT Foundation', cursive;;
+}
+
+
+.profile
+{
+    position: absolute;
+    top: 400px;
+    left:500px;
+}
+
+
+.computer-img
+{
+    width: 30%;
+    position: relative;
+    right: 500px;
+}
+
+.bottom-container
+{
+    
+    padding-top: 90px;
+    background-color: #66BFBF;
+
+    
+}
+
+
+
+
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999e);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999e);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999e);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999e);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999e);
+    -webkit-border-radius: 100;
+    -moz-border-radius: 100;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 22px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+
+
+  .my-skills
+  {
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+
+hr
+{
+    border-style: dotted none none ;
+    margin-bottom: 0;
+    border-width: 5px;
+    border-radius: 0px;
+    width: 5%;
+  }
+
+
+.footer-link
+{
+
+    
+    font-size: 20px;
+    color: black;
+}
+
+
+.copyright
+{
+    font-size: 15px;
+    text-align: left;
+}
+
+
+.contact-def
+{
+    font-size: 30px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    color: black;
+    line-height: 2;
+}
+
+
+
+.ending-info
+{
+    font-size: 30px;
+    font-family:'Edu NSW ACT Foundation', cursive;;
+}
+
+.likedin-logo
+{
+    width: 2%;
+}
+
+
+.insta-logo
+{
+    position:relative;
+    left: 20px;
+    width: 2%;
+}
+
+
+
+.github-logo
+{
+    position:relative;
+    left: 40px;
+    width: 2%;
+}
+
